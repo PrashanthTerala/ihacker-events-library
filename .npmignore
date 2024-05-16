@@ -10,7 +10,7 @@
 
 # production
 /build
-/dist
+/src
 
 # misc
 .DS_Store
@@ -22,3 +22,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+tsconfig.json
+tsup.config.ts
